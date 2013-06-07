@@ -1,5 +1,5 @@
 ﻿
-namespace MediaBrowser.UI.Playback
+namespace MediaBrowser.Theater.Interfaces.Playback
 {
     /// <summary>
     /// Enum PlayState

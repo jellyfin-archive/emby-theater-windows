@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace MediaBrowser.UI.Playback
+namespace MediaBrowser.Theater.Interfaces.Playback
 {
     /// <summary>
     /// Class PlayOptions
